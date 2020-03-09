@@ -1,6 +1,6 @@
 # Insurance Calculator App
 
-## Find the live version [HERE](https://www.google.com)
+## Find the live version [HERE](https://insurance-calculator-app.now.sh/)
 
 ### In this project I learned:
 
